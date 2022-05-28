@@ -2,7 +2,7 @@ import Parser from "rss-parser";
 // let Parser = require('rss-parser');
 let parser = new Parser();
 
-export async function fetch_rss(URL){
+export async function fetch_rss(baseDate, URL){
 
     let feed = await parser.parseURL(URL);
     console.log(feed.title);
@@ -13,7 +13,7 @@ export async function fetch_rss(URL){
       if(item["dc:Date"] !== undefined){
         item.pubdate = item["dc:Date"];
       }
-      if(new Date('Thu, 23 May 2022 16:20:00 +0900') < new Date(item.pubDate)){
+      if(baseDate < new Date(item.pubDate)){
         result.push({title: item.title, link: item.link, date: item.pubDate});
       }
     });
