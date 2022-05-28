@@ -8,7 +8,11 @@ export async function fetch_rss(URL){
     console.log(feed.title);
   
     feed.items.forEach(item => {
-      console.log(item.title + ':' + item.link+ "- " +item["pubDate"])
+      if(item["dc:date"]===undefined){
+        console.log(item.title, item.link, item["pubDate"]);
+      }else{
+        console.log(item.title, item.link, item["dc:date"]);
+      }
     });
     console.log("--------");
   };
