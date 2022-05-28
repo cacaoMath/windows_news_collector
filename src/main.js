@@ -19,13 +19,15 @@ baseDate.setMinutes(0);
 baseDate.setSeconds(0);
 
 
-async function generate_rss_arr(){
+const main = async () => {
     let results = [];
 
     for(const url of feedURL){
-        const tmp = await fetch_rss(baseDate, url)
+        const tmp = await fetch_rss(baseDate, url);
         results = results.concat(tmp);
     }
     console.log(results);
-}
-generate_rss_arr();
+    console.log(results.length);
+    return results;
+};
+main();
