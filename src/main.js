@@ -12,7 +12,7 @@ const feedURL = [
     "https://www.windowslatest.com/feed/", //Windows Latest
     "https://www.blogger.com/feeds/1894205398638095613/posts/default", //山市良のえぬなんとかわーるど
 ];
-
-feedURL.map(url => fetch_rss(url));
+const baseDate = new Date('Tue, 24 May 2022 15:01:43 +0000');
+feedURL.map(url => fetch_rss(baseDate, url));
 
 
