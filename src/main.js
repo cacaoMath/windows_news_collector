@@ -6,7 +6,7 @@ const feedURL = [
     "https://blogs.windows.com/feed/", //Windows Blogs
     "https://blogs.windows.com/windows-insider/feed/", //Windows Insider Blogs
     'https://devblogs.microsoft.com/landingpage/', //Microsoft Developer Blogs
-    "https://devblogs.microsoft.com/dotnet/", //.NET Blog
+    "https://devblogs.microsoft.com/dotnet/feed/", //.NET Blog
     "https://forest.watch.impress.co.jp/data/rss/1.0/wf/feed.rdf", //窓の杜
     "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf", //PC Watch
     "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml", //ITmedia NEWS
