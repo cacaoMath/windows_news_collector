@@ -1,6 +1,4 @@
-import Parser from "rss-parser";
-// let Parser = require('rss-parser');
-let parser = new Parser();
+import { fetch_rss } from "./fetch_rss.js";
 
 const feedURL = [
     "https://blogs.windows.com/feed/", //Windows Blogs
@@ -15,15 +13,6 @@ const feedURL = [
     "https://www.blogger.com/feeds/1894205398638095613/posts/default", //山市良のえぬなんとかわーるど
 ];
 
-const fetch_rss = async () => {
+feedURL.map(url => fetch_rss(url));
 
-  let feed = await parser.parseURL('https://www.blogger.com/feeds/1894205398638095613/posts/default');
-  console.log(feed.title);
-
-  feed.items.forEach(item => {
-    console.log(item.title + ':' + item.link+ "- " +item["pubDate"])
-  });
-
-};
-fetch_rss();
 
