@@ -12,7 +12,20 @@ const feedURL = [
     "https://www.windowslatest.com/feed/", //Windows Latest
     "https://www.blogger.com/feeds/1894205398638095613/posts/default", //山市良のえぬなんとかわーるど
 ];
-const baseDate = new Date('Tue, 24 May 2022 15:01:43 +0000');
-feedURL.map(url => fetch_rss(baseDate, url));
+const baseDate = new Date(Date.now());
+baseDate.setDate(baseDate.getDate() - 1);
+baseDate.setHours(0);
+baseDate.setMinutes(0);
+baseDate.setSeconds(0);
 
 
+async function generate_rss_arr(){
+    let results = [];
+
+    for(const url of feedURL){
+        const tmp = await fetch_rss(baseDate, url)
+        results = results.concat(tmp);
+    }
+    console.log(results);
+}
+generate_rss_arr();
