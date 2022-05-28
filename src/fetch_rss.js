@@ -3,17 +3,11 @@ const parser = new Parser();
 
 export async function fetch_rss(baseDate, URL){
 
-    let feed = await parser.parseURL(URL);
-
-    let result = [];
-  
-    feed.items.forEach(item => {
-      if(item["dc:Date"] !== undefined){
-        item.pubdate = item["dc:Date"];
-      }
-      if(baseDate < new Date(item.pubDate)){
-        result.push({title: item.title, link: item.link, date: item.pubDate});
-      }
-    });
+    const feed = await parser.parseURL(URL);
+    const result = feed.items
+    .map(item =>{
+      return ({title: item.title, link: item.link, pubDate: (item["dc:Date"] !== undefined) ? item["dc:Date"] : item["pubDate"]})
+     })
+    .filter(item => baseDate < new Date(item.pubDate));
     return result;
   };
