@@ -1,0 +1,28 @@
+name: rss_notification
+on:
+  push:
+    branches: 
+      - develop
+  schedule:
+    - cron: '0 15 * * *'
+
+jobs:
+  build:
+    # Ubuntuの最新版環境内で処理を実行することを指定
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+      - run: npm ci 
+      - run: |
+            cat <<EOL >> ./.env
+            MAIL_USER="${{secrets.MAIL_USER}}"
+            MAIL_PASSWORD="${{secrets.MAIL_PASSWORD}}"
+            TO="${{secrets.TO}}"
+            EOL
+            echo "${{secrets.MAIL_USER}}"
+      - run: node ./src/main.js
+            
