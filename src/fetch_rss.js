@@ -10,7 +10,8 @@ export async function fetch_rss(baseDate, URL, pattern){
         title: item.title,
         link: item.link,
         pubDate: (item["dc:Date"] !== undefined) ? new Date(item["dc:Date"]) : new Date(item["pubDate"])})
-     })
-    .filter(item => baseDate < item.pubDate && pattern.test(item.title));
+      })
+      .filter(item => baseDate < item.pubDate && pattern.test(item.title));
+    console.log(result);
     return result;
   };
