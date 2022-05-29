@@ -73,7 +73,9 @@ const main = async () => {
         to: env.TO,                    // 送信先
         subject: '今日のWindows系RSS',           // 件名
         html: arrToHtml(results),           // 通常のメール本文
-    }
+    };
+    console.log(env.MAIL_USER);
+    console.log(env.TO);
     sendMail(smtpData, mailData);
 };
 main();

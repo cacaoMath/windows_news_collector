@@ -17,10 +17,11 @@ jobs:
           node-version: '16'
       - run: npm ci 
       - run: |
-            cat <<EOL >> .env
-            MAIL_USER=${{secrets.MAIL_USER}}
-            MAIL_PASSWORD=${{secrets.MAIL_PASSWORD}}
-            TO=${{secrets.TO}}
+            cat <<EOL >> ./.env
+            MAIL_USER="${{secrets.MAIL_USER}}"
+            MAIL_PASSWORD="${{secrets.MAIL_PASSWORD}}"
+            TO="${{secrets.TO}}"
             EOL
+            echo "${{secrets.MAIL_USER}}"
       - run: node ./src/main.js
             
