@@ -18,12 +18,13 @@ baseDate.setHours(0);
 baseDate.setMinutes(0);
 baseDate.setSeconds(0);
 
+const matchPattern = /[mM]icro.*|マイクロソフト|[wW]in.*|Net|アップデート|[uU]pdate/
 
 const main = async () => {
     let results = [];
 
     for(const url of feedURL){
-        const tmp = await fetch_rss(baseDate, url);
+        const tmp = await fetch_rss(baseDate, url, matchPattern);
         results = results.concat(tmp);
     }
     console.log(results);
