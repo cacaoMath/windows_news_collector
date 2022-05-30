@@ -1,8 +1,49 @@
 import { fetch_rss } from "./fetch_rss.js";
 import 'dotenv/config';
-import NodeMailer from 'nodemailer';
+import mail from "@sendgrid/mail";
 
-const env = process.env
+const env = process.env;
+const sgMail = mail
+sgMail.setApiKey(env.API_KEY);
+const from = env.FROM;
+const tos = env.TOS.split(',');
+
+const msg = {
+    personalizations: [
+        {
+            to: tos[0],
+            substitutions: {
+                fullname: 'mahiro imabeppu',
+                familyname: 'imabeppu',
+                place: 'nakaaoki'
+            }
+        },
+        {
+            to: tos[1],
+            substitutions: {
+                fullname: 'mahiro imabeppu',
+                familyname: 'imabeppu',
+                place: 'nakaaoki'
+            }
+        },
+    ],
+
+    from: {
+        email: from, // 送信元アドレス
+        name: 'mahiro imabeppu' // 送信者名
+    },
+    subject: `[windows news] ${(new Date()).toString()}`, // 件名
+    text: 'おはよう御座います！', // textパート
+    html: '<strong>%familyname%さんは何をしていますか？</strong><br>彼は%place%にいます。', // htmlパート
+    substitutionWrappers: ['%', '%'], // 置換タグの指定
+ 
+    // カテゴリ
+    cagtegories: 'category1',
+    // カスタムヘッダ
+    headers: {
+        'X-Sent-Using': 'SendGrid-API'
+    },
+}
 
 const feedURL = [
     "https://blogs.windows.com/feed/", //Windows Blogs
@@ -24,34 +65,6 @@ baseDate.setSeconds(0);
 
 const matchPattern = /[mM]icro.*|マイクロソフト|[wW]in.*|Net|アップデート|[uU]pdate/
 
-const smtpData = {
-    host: 'smtp.gmail.com', // Gmailのサーバ
-    port: '465',            // Gmailの場合　SSL: 465 / TLS: 587
-    secure: true,           // true = SSL
-    auth: {
-      user: env.MAIL_USER,  // メールアドレス（自身のアドレスを指定）
-      pass: env.MAIL_PASSWORD            // パスワード（自身のパスワードを指定）
-    }
-  }
-
-// メール送信関数
-function sendMail (smtpData, mailData) {
- 
-    // SMTPサーバの情報をまとめる
-    const transporter = NodeMailer.createTransport(smtpData)
-   
-    // メール送信
-    transporter.sendMail(mailData, function (error, info) {
-      if (error) {
-        // エラー処理
-        console.log(error)
-      } else {
-        // 送信時処理
-        console.log('Email sent: ' + info.response)
-      }
-    })
-  }
-
 function arrToHtml(rssArr){
     return "<ul>" + rssArr.map(item =>{
         return `<li> <a href='${item.link}'> ${item.title} </a>: ${item.pubDate} </li>` 
@@ -67,15 +80,17 @@ const main = async () => {
     }
     console.log(results);
     console.log(results.length);
-    // 送信内容を作成
-    const mailData = {
-        from: 'smtpData.auth.user',     // 送信元名
-        to: env.TO,                    // 送信先
-        subject: '今日のWindows系RSS',           // 件名
-        html: arrToHtml(results),           // 通常のメール本文
-    };
-    console.log(env.MAIL_USER);
-    console.log(env.TO);
-    sendMail(smtpData, mailData);
+    msg.html = arrToHtml(results);
+    try {
+        // 送信
+        const response = await sgMail.send(msg);
+        // 結果出力
+        const obj = JSON.parse(JSON.stringify(response[0]));
+        console.log(obj.statusCode);
+        console.log(obj.body);
+        console.log(obj.headers);
+    } catch (error) {
+        console.error(error);
+    }
 };
 main();
