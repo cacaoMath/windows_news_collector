@@ -19,9 +19,9 @@ jobs:
       - run: npm ci 
       - run: |
             cat <<EOL >> ./.env
-            MAIL_USER="${{secrets.MAIL_USER}}"
-            MAIL_PASSWORD="${{secrets.MAIL_PASSWORD}}"
-            TO="${{secrets.TO}}"
+            API_KEY="${{secrets.API_KEY}}"
+            FROM="${{secrets.FROM}}"
+            TOS="${{secrets.TOS}}"
             EOL
             echo "${{secrets.MAIL_USER}}"
       - run: node ./src/main.js
