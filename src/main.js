@@ -78,7 +78,10 @@ const main = async () => {
         const tmp = await fetch_rss(baseDate, url, matchPattern);
         results = await results.concat(tmp);
     }
-    msg.html = await arrToHtml(results);
+    const uniqueResult = await Array.from(
+        new Map(results.map(result => [result.title, result])).values()
+    );
+    msg.html = await arrToHtml(uniqueResult);
     // 送信
     const response = await sgMail.send(msg);
     // 結果出力
