@@ -76,21 +76,13 @@ const main = async () => {
 
     for(const url of feedURL){
         const tmp = await fetch_rss(baseDate, url, matchPattern);
-        results = results.concat(tmp);
+        results = await results.concat(tmp);
     }
-    console.log(results);
-    console.log(results.length);
-    msg.html = arrToHtml(results);
-    try {
-        // 送信
-        const response = await sgMail.send(msg);
-        // 結果出力
-        const obj = JSON.parse(JSON.stringify(response[0]));
-        console.log(obj.statusCode);
-        console.log(obj.body);
-        console.log(obj.headers);
-    } catch (error) {
-        console.error(error);
-    }
+    msg.html = await arrToHtml(results);
+    // 送信
+    const response = await sgMail.send(msg);
+    // 結果出力
+    const obj = JSON.parse(JSON.stringify(response[0]));
+    console.log("status : ", obj.statusCode, "body : ", obj.body, "header : ", obj.headers);
 };
 main();
