@@ -12,4 +12,4 @@ export async function fetch_rss(baseDate, URL, pattern){
         pubDate: new Date(item.isoDate)})
       }).filter(item => baseDate < item.pubDate && pattern.test(item.title));
   return result;
-};
+}
