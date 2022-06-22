@@ -12,37 +12,17 @@ const msg = {
     personalizations: [
         {
             to: tos[0],
-            substitutions: {
-                fullname: 'mahiro imabeppu',
-                familyname: 'imabeppu',
-                place: 'nakaaoki'
-            }
         },
         {
             to: tos[1],
-            substitutions: {
-                fullname: 'mahiro imabeppu',
-                familyname: 'imabeppu',
-                place: 'nakaaoki'
-            }
         },
     ],
 
     from: {
         email: from, // 送信元アドレス
-        name: 'mahiro imabeppu' // 送信者名
+        name: 'cacao math' // 送信者名
     },
     subject: `[windows news] ${(new Date()).toString()}`, // 件名
-    text: 'おはよう御座います！', // textパート
-    html: '<strong>%familyname%さんは何をしていますか？</strong><br>彼は%place%にいます。', // htmlパート
-    substitutionWrappers: ['%', '%'], // 置換タグの指定
- 
-    // カテゴリ
-    cagtegories: 'category1',
-    // カスタムヘッダ
-    headers: {
-        'X-Sent-Using': 'SendGrid-API'
-    },
 }
 
 const feedURL = [
