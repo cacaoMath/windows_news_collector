@@ -68,7 +68,7 @@ const matchPattern = /[mM]icro.*|マイクロソフト|[wW]in.*|Net|アップデ
 function arrToHtml(rssArr){
     return "<ul>" + rssArr.map(item =>{
         return `<li> <a href='${item.link}'> ${item.title} </a>: ${item.pubDate} </li>` 
-    }) + "</ul>"
+    }).join("") + "</ul>"
 }
 
 const main = async () => {
