@@ -1,5 +1,8 @@
 import Parser from "rss-parser";
-const parser = new Parser();
+const parser = new Parser( {
+  headers: {
+  Accept: 'application/rss+xml, application/xml, application/atom+xml',
+},});
 
 export async function fetch_rss(baseDate, URL, pattern){
 
