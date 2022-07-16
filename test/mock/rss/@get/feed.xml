@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Windows Latest</title>
+	<atom:link href="https://www.windowslatest.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.windowslatest.com</link>
+	<description>Your source for all things Microsoft</description>
+	<lastBuildDate>Thu, 14 Jul 2022 21:39:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.10</generator>
+	<item>
+		<title>Microsoft releases Windows 11 Update Stack Package 1022.705.1011.0</title>
+		<link>https://www.windowslatest.com/2022/07/15/microsoft-releases-windows-11-update-stack-package-1022-705-1011-0/</link>
+					<comments>https://www.windowslatest.com/2022/07/15/microsoft-releases-windows-11-update-stack-package-1022-705-1011-0/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Mayank Parmar]]></dc:creator>
+		<pubDate>Thu, 14 Jul 2022 21:39:43 +0000</pubDate>
+				<category><![CDATA[Windows 11]]></category>
+		<guid isPermaLink="false">https://www.windowslatest.com/?p=63937</guid>
+
+					<description><![CDATA[<p>Microsoft has released yet another Windows 11 Update Stack Package as it continues to test this new feature to deliver quality improvements outside of the major Windows feature updates. With Update Stack Packages, Microsoft is also hoping to minimize installation issues caused by certain updates. Microsoft started testing Update Stack Package with Build 22478 or [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.windowslatest.com/2022/07/15/microsoft-releases-windows-11-update-stack-package-1022-705-1011-0/">Microsoft releases Windows 11 Update Stack Package 1022.705.1011.0</a> appeared first on <a rel="nofollow" href="https://www.windowslatest.com">Windows Latest</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p>Microsoft has released yet another Windows 11 Update Stack Package as it continues to test this new feature to deliver quality improvements outside of the major Windows feature updates. With Update Stack Packages, Microsoft is also hoping to minimize installation issues caused by certain updates.</p>
+<p>Microsoft started testing Update Stack Package with Build 22478 or newer and it will begin pushing the feature to everyone later this year. Microsoft has now released another version &#8220;Update Stack Package 1022.705.1011.0&#8221; with an unknown number of fixes or improvements as a changelog is not available.</p>
+<p>&#8220;The Update Stack Package will help ensure that your PC has the highest likelihood of successfully installing new updates with the best and least disruptive experience available,&#8221; Microsoft officials noted in one of the blog posts published earlier this year.</p>
+<p>Today&#8217;s Update Stack Package 1022.705.1011.0 is apparently rolling out to users in the Dev Channel only. If everything goes according to the plan, Update Stack Packages will appear in the production channel following the release of Windows 11 version 22H2 (Sun Valley 2) in the fall.</p>
+<p>We don&#8217;t know how exactly Update Stack Packages will improve the Windows Update experience, but Microsoft officials previously explained that the packages will be deployed to improve stability when a monthly or feature update is around the corner.</p>
+<p>In other words, update stack packages are smaller updates that will be delivered prior to cumulative updates to reduce issues that are reported post or during the update installation. For example, you can expect fewer installation errors if you install the stack package before the main cumulative update.</p>
+<p>For now, Microsoft is testing this feature within the preview builds and is being restricted to Dev Channel only with only a small set of unknown improvements shipping. It&#8217;s likely that this will begin rolling out to devices running <a href="https://www.windowslatest.com/2021/10/05/download-windows-11-iso-images/">Windows 11 version 21H2</a> (original release) if it proves successful.</p>
+<p>The post <a rel="nofollow" href="https://www.windowslatest.com/2022/07/15/microsoft-releases-windows-11-update-stack-package-1022-705-1011-0/">Microsoft releases Windows 11 Update Stack Package 1022.705.1011.0</a> appeared first on <a rel="nofollow" href="https://www.windowslatest.com">Windows Latest</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.windowslatest.com/2022/07/15/microsoft-releases-windows-11-update-stack-package-1022-705-1011-0/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows 11 now lets you easily rip CD with new Media Player</title>
+		<link>https://www.windowslatest.com/2022/07/14/windows-11-now-lets-you-easily-rip-cd-with-new-media-player/</link>
+					<comments>https://www.windowslatest.com/2022/07/14/windows-11-now-lets-you-easily-rip-cd-with-new-media-player/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Mayank Parmar]]></dc:creator>
+		<pubDate>Thu, 14 Jul 2022 08:13:49 +0000</pubDate>
+				<category><![CDATA[Windows 11]]></category>
+		<guid isPermaLink="false">https://www.windowslatest.com/?p=63929</guid>
+
+					<description><![CDATA[<p>You can now easily copy, or rip, music from a disc to your computer with Windows 11&#8217;s new Media Player. For those uninitiated, Windows Media Player was recently updated on Windows 11 with WinUI and Fluent Design makeover, and it&#8217;s now getting support for features which are available in the original release. The new Media [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.windowslatest.com/2022/07/14/windows-11-now-lets-you-easily-rip-cd-with-new-media-player/">Windows 11 now lets you easily rip CD with new Media Player</a> appeared first on <a rel="nofollow" href="https://www.windowslatest.com">Windows Latest</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p>You can now easily copy, or rip, music from a disc to your computer with Windows 11&#8217;s new Media Player. For those uninitiated, Windows Media Player was recently updated on Windows 11 with WinUI and Fluent Design makeover, and it&#8217;s now getting support for features which are available in the original release.</p>
+<p>The new Media Player is apparently built on top of Groove Music and it comes with support for better video playback, a large library, and a modern design that matches the look and feel of Windows 11.</p>
+<p>The last update for Windows Media Player had added support for CD playback. Microsoft also made improvements to the theme and styling of the media player, and additional changes were implemented to ensure the media content drag and drop experience is smooth.</p>
+<p>With today&#8217;s update, copying music to your desktop is now easy. If you have the CD you want to copy ready, Media Player will do the work for you. As you can see in the below screenshot, you can select a format like AAC and change the bit rate before copying the file to the device.</p>
+<p>Other supported formats include WMA, FLAC and ALAC.</p>
+<p><img class="aligncenter size-full wp-image-63930" src="https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-11-Media-Player-rip-CD.jpg" alt="Windows 11 Media Player rip CD" width="1355" height="797" srcset="https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-11-Media-Player-rip-CD.jpg 1355w, https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-11-Media-Player-rip-CD-300x176.jpg 300w, https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-11-Media-Player-rip-CD-1024x602.jpg 1024w, https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-11-Media-Player-rip-CD-768x452.jpg 768w, https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-11-Media-Player-rip-CD-696x409.jpg 696w, https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-11-Media-Player-rip-CD-1068x628.jpg 1068w, https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-11-Media-Player-rip-CD-714x420.jpg 714w" sizes="(max-width: 1355px) 100vw, 1355px" /></p>
+<p>Remember that Windows Media Player will automatically select the best format and bit rate depending on the type of file you choose. For example, 256 kbps is selected when you try to copy audio files.</p>
+<p>To get started, insert the disc into your disc drive. You can ignore the autoplay option if it appears on the desktop and open Windows Media Player. Finally, head to the &#8216;Audio CD&#8217; section and select Rip CD to have the app rip the CD with default settings, or you can also change the settings.</p>
+<p>This update is rolling out to testers in the Dev Channel and it will become available for everyone later this month.</p>
+<h2>A new look for Windows Camera</h2>
+<p>The built-in Windows Camera app has been updated with a new beautiful look and feel of Windows 11. The app now uses the familiar WinUI and Fluent Design, and the font has also been updated.</p>
+<p><img class="aligncenter size-full wp-image-63931" src="https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-Camera-app.jpg" alt="Windows Camera app" width="1503" height="976" srcset="https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-Camera-app.jpg 1503w, https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-Camera-app-300x195.jpg 300w, https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-Camera-app-1024x665.jpg 1024w, https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-Camera-app-768x499.jpg 768w, https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-Camera-app-696x452.jpg 696w, https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-Camera-app-1068x694.jpg 1068w, https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-Camera-app-647x420.jpg 647w" sizes="(max-width: 1503px) 100vw, 1503px" /></p>
+<p>The camera app still supports features like video, photos, document and whiteboard capture, and is now getting support for two additional capture modes &#8211; QR code and barcode scanning as well. You&#8217;ll be able to use the camera app to scan QR codes or barcodes. Of course, this feature works best on devices with a high-quality camera.</p>
+<p>In addition to app updates, <a href="https://www.windowslatest.com/2022/07/14/windows-11-build-25158-released-with-new-features/">Microsoft has also published Windows 11 Build 25158</a> in the Dev Channel with widgets and taskbar improvements.</p>
+<p>The post <a rel="nofollow" href="https://www.windowslatest.com/2022/07/14/windows-11-now-lets-you-easily-rip-cd-with-new-media-player/">Windows 11 now lets you easily rip CD with new Media Player</a> appeared first on <a rel="nofollow" href="https://www.windowslatest.com">Windows Latest</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.windowslatest.com/2022/07/14/windows-11-now-lets-you-easily-rip-cd-with-new-media-player/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows 11 KB5015814: Watch out for these issues in the latest update</title>
+		<link>https://www.windowslatest.com/2022/07/14/windows-11-kb5015814-watch-out-for-these-issues-in-the-latest-update/</link>
+					<comments>https://www.windowslatest.com/2022/07/14/windows-11-kb5015814-watch-out-for-these-issues-in-the-latest-update/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Mayank Parmar]]></dc:creator>
+		<pubDate>Wed, 13 Jul 2022 23:29:20 +0000</pubDate>
+				<category><![CDATA[Windows 11]]></category>
+		<guid isPermaLink="false">https://www.windowslatest.com/?p=63926</guid>
+
+					<description><![CDATA[<p>Windows 11 KB5015814 is now available for everyone with plenty of improvements, fixes and a few new issues. This cumulative update brings the Windows Search highlights feature to everyone and addresses an issue where users cannot upgrade to Windows 11 (original release) from Windows 10. KB5015814 is a security update and it will download automatically [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.windowslatest.com/2022/07/14/windows-11-kb5015814-watch-out-for-these-issues-in-the-latest-update/">Windows 11 KB5015814: Watch out for these issues in the latest update</a> appeared first on <a rel="nofollow" href="https://www.windowslatest.com">Windows Latest</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p>Windows 11 KB5015814 is now available for everyone with plenty of improvements, fixes and a few new issues. This cumulative update brings the Windows Search highlights feature to everyone and addresses an issue where users cannot upgrade to Windows 11 (original release) from Windows 10.</p>
+<p>KB5015814 is a security update and it will download automatically on your device at some point in future or when you check for updates manually. Of course, you can pause updates for up to a week if you&#8217;re aware of potential issues with this particular update. Otherwise, KB5015814 is a decent update in most cases.</p>
+<p>Late Tuesday, Microsoft released Windows 11&#8217;s July 2022 update security patch for version 21H2 that does not appear to change much of anything on the surface. However, after downloading the patch, full updated Windows 11 users have found themselves unable to install the cumulative update.</p>
+<p>According to reports, KB5015814 installation fails with error messages like 0x8000ffff, 0x8007007e, and 0x80073701.</p>
+<p>&#8220;I keep on getting an install error 0x8000ffff with this update even after I have rebooted the computer. Not sure if I installed KB5014668 since I don&#8217;t see it in the update list,&#8221; one of the affected users noted in the Feedback Hub.</p>
+<p>&#8220;Something is wrong in this update, got a boot loop. Luckily windows managed to unfuck itself. Recommend to not install this one,&#8221; another user noted.</p>
+<p>On Reddit, some users have also flagged performance issues with the Start Menu, but this doesn&#8217;t appear to be a widespread problem.</p>
+<p>At the moment, we&#8217;re not aware of any workaround, but you can pause the updates to prevent installation failures. Remember that downloading the update package from Microsoft Update Catalog could also address the problem.</p>
+<h2>Windows 11 KB5015814 new features and fixes</h2>
+<p>KB5015814 enables support for a new feature called &#8216;Search highlights&#8217;. For those unaware, search highlights started rolling out earlier this year and it provides access to notable or interesting moments from Microsoft Bing.</p>
+<p>The moments can be holidays, anniversaries, and other moments both globally and in your region. Enterprises customers will also see updates from your organization and Windows 11 will be able to suggest people, files, and more. While the feature is included in the patch itself, Microsoft says it may take the &#8220;next several weeks&#8221; to surface on all PCs.</p>
+<p>Microsoft is reportedly taking a phased and measured approach. The availability will occur in the coming months only.</p>
+<p><strong>List of fixes in KB5015814:</strong></p>
+<ul>
+<li>Microsoft has fixed an issue where Windows 11 displays Japanese characters incorrectly in PowerShell.</li>
+<li>Another bug has been fixed where the Cloud Clipboard service stops working and prevents syncing between machines.</li>
+<li>A bug has been fixed where Windows 11 fails to hide the Windows Sandbox startup screen after Sandbox starts to run.</li>
+<li>Another bug has been fixed that might cause the playback of consecutive video clips to fail.</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://www.windowslatest.com/2022/07/14/windows-11-kb5015814-watch-out-for-these-issues-in-the-latest-update/">Windows 11 KB5015814: Watch out for these issues in the latest update</a> appeared first on <a rel="nofollow" href="https://www.windowslatest.com">Windows Latest</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.windowslatest.com/2022/07/14/windows-11-kb5015814-watch-out-for-these-issues-in-the-latest-update/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows 11 Build 25158 released with new features</title>
+		<link>https://www.windowslatest.com/2022/07/14/windows-11-build-25158-released-with-new-features/</link>
+					<comments>https://www.windowslatest.com/2022/07/14/windows-11-build-25158-released-with-new-features/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Mayank Parmar]]></dc:creator>
+		<pubDate>Wed, 13 Jul 2022 22:50:08 +0000</pubDate>
+				<category><![CDATA[Windows 11]]></category>
+		<guid isPermaLink="false">https://www.windowslatest.com/?p=63918</guid>
+
+					<description><![CDATA[<p>Windows 11 Build 25158 is now rolling out to testers in the Dev Channel and it comes with plenty of improvements. For example, Microsoft is introducing support for notification badges for widgets. Likewise, the taskbar&#8217;s search icon is getting new styles, including support for the search bar, similar to the version we&#8217;ve on Windows 10. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.windowslatest.com/2022/07/14/windows-11-build-25158-released-with-new-features/">Windows 11 Build 25158 released with new features</a> appeared first on <a rel="nofollow" href="https://www.windowslatest.com">Windows Latest</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p>Windows 11 Build 25158 is now rolling out to testers in the Dev Channel and it comes with plenty of improvements. For example, Microsoft is introducing support for notification badges for widgets. Likewise, the taskbar&#8217;s search icon is getting new styles, including support for the search bar, similar to the version we&#8217;ve on Windows 10.</p>
+<p>Windows 11 Build 25158 isn&#8217;t tied to any particular feature update. However, it&#8217;s believed to be a part of <a href="https://www.windowslatest.com/2022/06/06/microsoft-leaks-windows-11-23h2-desktop-app-folders-feature/">Windows 11 version 23H2</a>, which is set to arrive next year. In Build 25158, you can try out the new dynamic widgets board experience where the notifications will appear directly on the taskbar.</p>
+<p>As you can see in the below screenshot, you can click on the notification badge to open the widgets board. A new banner at the top of the board will provide more information on what triggered the notification badge. Of course, you&#8217;ll be able to disable the functionality or remove the widget&#8217;s icon from the taskbar.</p>
+<p><img class="aligncenter size-full wp-image-63920" src="https://www.windowslatest.com/wp-content/uploads/2022/07/Build-25158.jpg" alt="Build 25158" width="393" height="45" srcset="https://www.windowslatest.com/wp-content/uploads/2022/07/Build-25158.jpg 393w, https://www.windowslatest.com/wp-content/uploads/2022/07/Build-25158-300x34.jpg 300w" sizes="(max-width: 393px) 100vw, 393px" /></p>
+<h2>What&#8217;s new in Windows 11 Build 25158</h2>
+<p><img class="aligncenter size-full wp-image-63919" src="https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-11-Build-25158.jpg" alt="Windows 11 Build 25158" width="720" height="438" srcset="https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-11-Build-25158.jpg 720w, https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-11-Build-25158-300x183.jpg 300w, https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-11-Build-25158-696x423.jpg 696w, https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-11-Build-25158-690x420.jpg 690w" sizes="(max-width: 720px) 100vw, 720px" /></p>
+<p>In addition to new dynamic widgets notification badge support, Microsoft is also bringing back the search bar to the taskbar. Notably, this functionality isn&#8217;t confirmed for Windows 11 version 23H2 as it is part of the company&#8217;s new A/B test system where select users will gain access to the feature.</p>
+<p><img class="aligncenter size-full wp-image-63923" src="https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-11-Build-25158-search-bar.jpg" alt="Windows 11 Build 25158 search bar" width="834" height="187" srcset="https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-11-Build-25158-search-bar.jpg 834w, https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-11-Build-25158-search-bar-300x67.jpg 300w, https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-11-Build-25158-search-bar-768x172.jpg 768w, https://www.windowslatest.com/wp-content/uploads/2022/07/Windows-11-Build-25158-search-bar-696x156.jpg 696w" sizes="(max-width: 834px) 100vw, 834px" /></p>
+<p>The search bar on the search bar will be updated with different visual treatments, but a reboot is required to trigger this experience.</p>
+<p>Windows 11 Build 25158 also enables DNS over TLS &#8211; a new protocol in addition to DNS over HTTPS (DoH) which is already included in the operating system. DNS over TLS isn&#8217;t a consumer-friendly feature which means it requires advanced steps and can be activated using the command line only.</p>
+<p>Microsoft recommends DNS over TLS to advanced networking users only.</p>
+<p>Likewise, Windows 11 Build 25158 includes support for the new Nyala font Gurage language orthography from the Ethiopic Extended-B Unicode range.</p>
+<p>List of other <strong>improvements in Windows 11 Build 25158</strong>:</p>
+<ul>
+<li>Microsoft has fixed an issue where testers may experience Blue Screen of Death errors with error code &#8220;KMODE_EXCEPTION_NOT_HANDLED&#8221; in NetAdapterCx.sys.</li>
+<li>Microsoft has fixed an issue that causes a black screen when you resume the device from a low power state.</li>
+<li>Microsoft has fixed an issue impacting performance across the Windows shell.</li>
+<li>Microsoft has fixed an issue where Mica material and Acrylic blur effect was rendering incorrectly in some areas.</li>
+<li>Microsoft has fixed an issue where closing command bar flyouts could crash explorer.exe.</li>
+<li>Microsoft has fixed an issue that could lead to File Explorer (explorer.exe) crashes.</li>
+<li>Microsoft has fixed CTRL + F4 and it should work to close the current tab now.</li>
+<li>Starting with Build 25158, a zipped folder opened in a new tab will not have a blank tab name.</li>
+</ul>
+<p>Microsoft is aware of a couple of known issues in Build 22158 for Windows 11. This includes an issue where games that use Easy Anti-Cheat may crash or cause your PC to bug check.</p>
+<p>Microsoft is aware of another bug where the up arrow is misaligned in File Explorer, but this will be fixed in a future release. The tech giant is also working on a fix to improve File Explorer&#8217;s launch experience when using dark mode.</p>
+<p>Another bug has been confirmed where certain apps in full screen prevent live captions from being visible.</p>
+<h2>How to install Windows 11 Build 25158</h2>
+<p>To<strong> install Windows 11 Build 25158</strong>, follow these steps:</p>
+<ol>
+<li>Signup for <strong>Windows Insiders Program</strong>.</li>
+<li>Open the <strong>Settings</strong> page<strong>.</strong></li>
+<li>Switch to <strong>Dev</strong> <strong>Channel</strong>.</li>
+<li>Click on “<strong>Check for updates</strong>“ and select “<strong>Download &amp; Install</strong>”.</li>
+<li>Click on “<strong>Restart now</strong>”.</li>
+</ol>
+<p>The post <a rel="nofollow" href="https://www.windowslatest.com/2022/07/14/windows-11-build-25158-released-with-new-features/">Windows 11 Build 25158 released with new features</a> appeared first on <a rel="nofollow" href="https://www.windowslatest.com">Windows Latest</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.windowslatest.com/2022/07/14/windows-11-build-25158-released-with-new-features/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Download Windows 10 ISO images with latest updates</title>
+		<link>https://www.windowslatest.com/2022/07/09/windows-10-iso-images-with-latest-updates/</link>
+					<comments>https://www.windowslatest.com/2022/07/09/windows-10-iso-images-with-latest-updates/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Mayank Parmar]]></dc:creator>
+		<pubDate>Fri, 08 Jul 2022 22:44:29 +0000</pubDate>
+				<category><![CDATA[Windows 10 PC]]></category>
+		<guid isPermaLink="false">https://www.windowslatest.com/?p=58422</guid>
+
+					<description><![CDATA[<p>Windows 10 ISO images (version 21H2 / November 2021 Update) are available for download via Microsoft&#8217;s website. Windows 10 ISO with the latest cumulative update applied is available in all editions, languages and two formats (64-bit and 32-bit), according to the tech giant. Windows 10 version 21H2 update was released in November 2021 and Microsoft [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.windowslatest.com/2022/07/09/windows-10-iso-images-with-latest-updates/">Download Windows 10 ISO images with latest updates</a> appeared first on <a rel="nofollow" href="https://www.windowslatest.com">Windows Latest</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p>Windows 10 ISO images (version 21H2 / November 2021 Update) are available for download via Microsoft&#8217;s website.</p>
+<p>Windows 10 ISO with the latest cumulative update applied is available in all editions, languages and two formats (64-bit and 32-bit), according to the tech giant.</p>
+<p><a href="https://www.windowslatest.com/2021/11/15/whats-new-in-windows-10-november-2021-update-arriving-soon/">Windows 10 version 21H2 update was released</a> in November 2021 and Microsoft has confirmed the update is now widely available. This means most users are seeing it when they check for updates manually. If you don&#8217;t see the update, you can download ISOs of Windows 10 (version 21H2) to update devices immediately or perform a clean install.</p>
+<p>To download ISO file for Windows 10 November 2021 Update (version 21H2) from Microsoft&#8217;s website, you&#8217;ve two options &#8211; change your browser user agent to get direct downloads or try Media Creation Tool.</p>
+<h2>Direct download Windows 10 21H2 ISO files from Microsoft</h2>
+<p>For those who need the ISO image immediately, follow the guide to get direct download links (valid for all editions) to download Windows 10 November 2021 Update:</p>
+<ul>
+<li>Windows 10 21H2 English (all editions) 64-bit &#8211; 5.8GB.</li>
+<li>Windows 10 21H2 English (all editions) 32-bit &#8211; 3.9GB.</li>
+</ul>
+<p>The links generated from Microsoft servers will expire automatically after 24 hours of creation and it is recommended to complete the download within a day by following the steps highlighted below.</p>
+<p>In this guide, we&#8217;ll highlight step-by-step instructions to download Windows 10 ISO files and apply the upgrade manually.</p>
+<h2>How to download Windows 10 ISO with latest updates</h2>
+<p>To download Windows 10 latest ISO, use these steps:</p>
+<ol>
+<li>Open the default web browser. In this guide, we&#8217;re using Chromium (Chrome)</li>
+<li>In Chromium (Chrome, Edge, etc), click on the three dots menu (&#8230;).</li>
+<li>Click on <strong>More tools</strong>.</li>
+<li>Click on <strong>Developer Tools</strong>.<br />
+<img class="aligncenter size-full wp-image-58429" src="https://www.windowslatest.com/wp-content/uploads/2021/05/Chrome-developer-tools.jpg" alt="Chrome developer tools" width="732" height="618" srcset="https://www.windowslatest.com/wp-content/uploads/2021/05/Chrome-developer-tools.jpg 732w, https://www.windowslatest.com/wp-content/uploads/2021/05/Chrome-developer-tools-300x253.jpg 300w, https://www.windowslatest.com/wp-content/uploads/2021/05/Chrome-developer-tools-696x588.jpg 696w, https://www.windowslatest.com/wp-content/uploads/2021/05/Chrome-developer-tools-497x420.jpg 497w" sizes="(max-width: 732px) 100vw, 732px" /></li>
+<li>This will open the developer window on the right side.</li>
+<li>Head to Microsoft&#8217;s <a href="https://www.microsoft.com/en-gb/software-download/windows10iso" target="_blank" rel="nofollow noopener noreferrer">download center</a> with the developer window open.</li>
+<li>In the Developer window, click on the three dots menu (&#8230;).</li>
+<li>In Network Conditions pane, look for user agent.<br />
+<img class="aligncenter size-full wp-image-58430" src="https://www.windowslatest.com/wp-content/uploads/2021/05/Chrome-network-conditions.jpg" alt="Chrome network conditions" width="752" height="568" srcset="https://www.windowslatest.com/wp-content/uploads/2021/05/Chrome-network-conditions.jpg 752w, https://www.windowslatest.com/wp-content/uploads/2021/05/Chrome-network-conditions-300x227.jpg 300w, https://www.windowslatest.com/wp-content/uploads/2021/05/Chrome-network-conditions-80x60.jpg 80w, https://www.windowslatest.com/wp-content/uploads/2021/05/Chrome-network-conditions-696x526.jpg 696w, https://www.windowslatest.com/wp-content/uploads/2021/05/Chrome-network-conditions-556x420.jpg 556w" sizes="(max-width: 752px) 100vw, 752px" /></li>
+<li>Disable the automatic selection for user agent.<br />
+<img class="aligncenter size-full wp-image-58431" src="https://www.windowslatest.com/wp-content/uploads/2021/05/User-agent-selection.jpg" alt="User agent selection" width="733" height="341" srcset="https://www.windowslatest.com/wp-content/uploads/2021/05/User-agent-selection.jpg 733w, https://www.windowslatest.com/wp-content/uploads/2021/05/User-agent-selection-300x140.jpg 300w, https://www.windowslatest.com/wp-content/uploads/2021/05/User-agent-selection-696x324.jpg 696w" sizes="(max-width: 733px) 100vw, 733px" /></li>
+<li>Select mobile browser by clicking on &#8220;Custom&#8230;&#8221;.</li>
+<li>For example, you can select &#8220;Chrome iPad&#8221; or &#8220;Chrome Android&#8221;.</li>
+<li>You need to select a mobile device as your user agent because Microsoft offers the media files only when the website is accessed on a non-Windows 10 device.<br />
+<img class="aligncenter size-full wp-image-58433" src="https://www.windowslatest.com/wp-content/uploads/2021/05/Change-user-agent.jpg" alt="Change user agent" width="754" height="863" srcset="https://www.windowslatest.com/wp-content/uploads/2021/05/Change-user-agent.jpg 754w, https://www.windowslatest.com/wp-content/uploads/2021/05/Change-user-agent-262x300.jpg 262w, https://www.windowslatest.com/wp-content/uploads/2021/05/Change-user-agent-696x797.jpg 696w, https://www.windowslatest.com/wp-content/uploads/2021/05/Change-user-agent-367x420.jpg 367w" sizes="(max-width: 754px) 100vw, 754px" /></li>
+<li>Press CTRL + F5 to open the download center in your new user agent. Don&#8217;t close the developer window.</li>
+<li>If you followed the steps correctly, you&#8217;ll see the see &#8220;<strong>Download Windows 10 Disk Image (ISO File)</strong>&#8221; page.<br />
+<img class="aligncenter size-full wp-image-62962" src="https://www.windowslatest.com/wp-content/uploads/2021/05/Windows-10-November-2021-Update-ISO.jpg" alt="Windows 10 November 2021 Update ISO" width="917" height="416" srcset="https://www.windowslatest.com/wp-content/uploads/2021/05/Windows-10-November-2021-Update-ISO.jpg 917w, https://www.windowslatest.com/wp-content/uploads/2021/05/Windows-10-November-2021-Update-ISO-300x136.jpg 300w, https://www.windowslatest.com/wp-content/uploads/2021/05/Windows-10-November-2021-Update-ISO-768x348.jpg 768w, https://www.windowslatest.com/wp-content/uploads/2021/05/Windows-10-November-2021-Update-ISO-696x316.jpg 696w" sizes="(max-width: 917px) 100vw, 917px" /></li>
+<li>Under &#8216;<strong>Select edition</strong>&#8216;, select &#8216;<strong>Windows 10 November 2021 Update</strong>&#8216; .</li>
+<li>Select the language for your ISO.</li>
+<li>Select either 32-bit or 64-bit. This makes a pretty big difference, so you need to be careful before downloading the files. You can verify the config from Settings &gt; System &gt; About.</li>
+</ol>
+<p>You need to follow these steps because Microsoft’s download center is designed to force Media Creation Tool when the website is accessed on a Windows 10-powered PC.</p>
+<p>When you follow the above steps, you&#8217;re making your web browser pretend you’re using another operating system. As a result, when you refresh the page in the browser after changing the user agent, Microsoft&#8217;s site will offer you the Windows 10 ISO instead of the Media Creation Tool.</p>
+<p>If you followed the steps correctly, the download of the media images will start and you can safely close the developer window.</p>
+<h2>Method 2: Use the Media Creation Tool to create an ISO</h2>
+<p>The Windows 10 Media Creation Tool is also a great way way to reinstall the operating system and it can download the necessary files from Microsoft.</p>
+<p>To download ISO using Media Creation Tool, follow these steps:</p>
+<ol>
+<li>On Windows 10, download the Media Creation tool from <a href="https://www.microsoft.com/en-us/software-download/windows10" target="_blank" rel="nofollow noopener noreferrer">Microsoft&#8217;s website</a> (under Windows 10 installation media section). It’s not a large download and it won’t take long to be finished</li>
+<li>Once downloaded, open the <strong>Media Creation Tool</strong> to upgrade the current installation or create a bootable flash drive.<br />
+<img class="aligncenter wp-image-58434" src="https://www.windowslatest.com/wp-content/uploads/2021/05/Media-Creation-Tool-1.jpg" alt="Media Creation Tool" width="628" height="557" srcset="https://www.windowslatest.com/wp-content/uploads/2021/05/Media-Creation-Tool-1.jpg 802w, https://www.windowslatest.com/wp-content/uploads/2021/05/Media-Creation-Tool-1-300x266.jpg 300w, https://www.windowslatest.com/wp-content/uploads/2021/05/Media-Creation-Tool-1-768x682.jpg 768w, https://www.windowslatest.com/wp-content/uploads/2021/05/Media-Creation-Tool-1-696x618.jpg 696w, https://www.windowslatest.com/wp-content/uploads/2021/05/Media-Creation-Tool-1-473x420.jpg 473w" sizes="(max-width: 628px) 100vw, 628px" /></li>
+<li>Click <strong>Yes</strong> and give it a few minutes to prepare the PC.</li>
+<li>Read the license agreement and click on the <strong>Accept</strong> button.</li>
+<li>When done, you&#8217;ll see &#8216;Getting a few things ready&#8217; screen on your PC.</li>
+<li>On the next screen, you can either upgrade the PC directly or create installation media ( ISO file) for another PC.</li>
+<li>Select the <strong>Create installation media</strong> and click on <strong>Next</strong> button.<br />
+<img class="aligncenter size-full wp-image-58435" src="https://www.windowslatest.com/wp-content/uploads/2021/05/Create-installation-media.jpg" alt="Create installation media" width="802" height="712" srcset="https://www.windowslatest.com/wp-content/uploads/2021/05/Create-installation-media.jpg 802w, https://www.windowslatest.com/wp-content/uploads/2021/05/Create-installation-media-300x266.jpg 300w, https://www.windowslatest.com/wp-content/uploads/2021/05/Create-installation-media-768x682.jpg 768w, https://www.windowslatest.com/wp-content/uploads/2021/05/Create-installation-media-696x618.jpg 696w, https://www.windowslatest.com/wp-content/uploads/2021/05/Create-installation-media-473x420.jpg 473w" sizes="(max-width: 802px) 100vw, 802px" /></li>
+<li>Select <strong>language</strong>, <strong>architecture</strong>, and <strong>Windows edition</strong> for your ISO image.<br />
+<img class="aligncenter size-full wp-image-58436" src="https://www.windowslatest.com/wp-content/uploads/2021/05/Windows-10-Setup.jpg" alt="Windows 10 Setup" width="802" height="712" srcset="https://www.windowslatest.com/wp-content/uploads/2021/05/Windows-10-Setup.jpg 802w, https://www.windowslatest.com/wp-content/uploads/2021/05/Windows-10-Setup-300x266.jpg 300w, https://www.windowslatest.com/wp-content/uploads/2021/05/Windows-10-Setup-768x682.jpg 768w, https://www.windowslatest.com/wp-content/uploads/2021/05/Windows-10-Setup-696x618.jpg 696w, https://www.windowslatest.com/wp-content/uploads/2021/05/Windows-10-Setup-473x420.jpg 473w" sizes="(max-width: 802px) 100vw, 802px" /></li>
+<li>Under &#8220;<strong>Choose which media to use</strong>&#8220;, select the <strong>ISO file option</strong> and press <strong>Next</strong>. If you want to create a bootable USB drive, select the first option instead.<br />
+<img class="aligncenter size-full wp-image-58437" src="https://www.windowslatest.com/wp-content/uploads/2021/05/Windows-10-ISO-download.jpg" alt="Windows 10 ISO download" width="802" height="712" srcset="https://www.windowslatest.com/wp-content/uploads/2021/05/Windows-10-ISO-download.jpg 802w, https://www.windowslatest.com/wp-content/uploads/2021/05/Windows-10-ISO-download-300x266.jpg 300w, https://www.windowslatest.com/wp-content/uploads/2021/05/Windows-10-ISO-download-768x682.jpg 768w, https://www.windowslatest.com/wp-content/uploads/2021/05/Windows-10-ISO-download-696x618.jpg 696w, https://www.windowslatest.com/wp-content/uploads/2021/05/Windows-10-ISO-download-473x420.jpg 473w" sizes="(max-width: 802px) 100vw, 802px" /></li>
+<li>Select a location to save your ISO file and click on the Save button.</li>
+<li>Once the download is complete, you can close the tool by Media Creation Tool by clicking on the Finish button.</li>
+</ol>
+<h2>How to use Windows 10 ISO file</h2>
+<p>Windows 10 21H2 ISO files can be used in a variety of ways. If the Media Creation Tool and other programs are not working, you can use it to manually install the operating system&#8217;s latest update without losing files/apps.</p>
+<p>Before getting started with the media file, you need to know how it works.</p>
+<p>An ISO image contains the installation files of Windows 10 with the latest cumulative and feature updates.</p>
+<p>On Windows 10, there are a lot of tools to open these media files. However, you can always use File Explorer, which comes with built-in functionality to mount ISO natively without the need for extra third-party software.</p>
+<p>To update your device to Windows 10 version 21H2 using ISO files, follow these steps:</p>
+<ol>
+<li>Open File Explorer.</li>
+<li>Browse to the Downloads folder where the ISO image is located.</li>
+<li>Double-click &#8220;<strong>Win10_21H2_v2_English_x64.iso</strong>&#8221; file to mount it.</li>
+<li>In the folder, double-click <strong>Setup.exe</strong>.</li>
+<li>Accept terms and conditions.</li>
+<li>Click on Upgrade this PC.</li>
+<li>The tool will now begin checking for quality updates, such as driver or cumulative update and it will be downloaded automatically.</li>
+<li>Select keep personal files, programs and apps option. You’ll be given options to keep everything, but you can choose to keep nothing at all and do a fresh install.</li>
+<li>When you’re sure about the selections, click ‘Install’ or &#8216;Next&#8217; and the Windows 10 installation process will begin.</li>
+<li>Reboot.</li>
+</ol>
+<p>Windows 10&#8217;s Setup.exe and Media Creation Tool are the two easiest ways to complete the installation of any feature update. Windows Update and Update Assistant Tools can sometimes lag behind in rolling out newer versions, but there&#8217;s no stopping when you download the update manually.</p>
+<p>ISO file is also perfect if you want to clean install the OS or build a USB flash drive to install Windows 10 on another machine.</p>
+<h2>What is the size of the November 2021 Update?</h2>
+<p>In our tests, we observed that the size of the Windows 10 21H2 ISO is 5.8GB, which means it should not be downloaded on metered/limited data connection. If you&#8217;re using your phone, make sure that you&#8217;ve at least six gigabytes of data.</p>
+<p>It&#8217;s also worth noting that the links will expire after 24 hours and the download won&#8217;t resume.</p>
+<p>As always, you can skip the hassle of the media files and download/install Windows 10 November 2021 Update using Windows Update Settings or Update Assistant. This process is faster when you&#8217;re running on the May 2021 Update (version 21H1) because the update is based on the enablement package.</p>
+<p>The post <a rel="nofollow" href="https://www.windowslatest.com/2022/07/09/windows-10-iso-images-with-latest-updates/">Download Windows 10 ISO images with latest updates</a> appeared first on <a rel="nofollow" href="https://www.windowslatest.com">Windows Latest</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.windowslatest.com/2022/07/09/windows-10-iso-images-with-latest-updates/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows 11 Photos app-like features are coming to Microsoft Edge</title>
+		<link>https://www.windowslatest.com/2022/07/09/windows-11-photos-app-like-features-are-coming-to-microsoft-edge/</link>
+					<comments>https://www.windowslatest.com/2022/07/09/windows-11-photos-app-like-features-are-coming-to-microsoft-edge/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Mayank Parmar]]></dc:creator>
+		<pubDate>Fri, 08 Jul 2022 22:44:20 +0000</pubDate>
+				<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://www.windowslatest.com/?p=63895</guid>
+
+					<description><![CDATA[<p>Microsoft Edge&#8217;s bloatware controversy remains a hot topic and it looks like the company is working on a couple of new features for the browser that may fall under this category for some folks. Windows 11&#8217;s default browser is now set to receive Microsoft Photos app-like features. As you&#8217;re probably aware, Windows 11 already comes [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.windowslatest.com/2022/07/09/windows-11-photos-app-like-features-are-coming-to-microsoft-edge/">Windows 11 Photos app-like features are coming to Microsoft Edge</a> appeared first on <a rel="nofollow" href="https://www.windowslatest.com">Windows Latest</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p>Microsoft Edge&#8217;s bloatware controversy remains a hot topic and it looks like the company is working on a couple of new features for the browser that may fall under this category for some folks. Windows 11&#8217;s default browser is now set to receive Microsoft Photos app-like features.</p>
+<p>As you&#8217;re probably aware, Windows 11 already comes with a new Photos app and it&#8217;s more than enough for simple editing. Microsoft is adding features from the Photos app to the Chromium-based Edge browser and anyone can try the browser&#8217;s image editing features by right-clicking on the photo.</p>
+<p>However, users have expressed their concern that adding such a potentially resource-heavy tool could slow down the browser and put extra strain on older machines, especially those running Windows 11. Since the image editing feature is baked into the browse, it cannot be removed.</p>
+<h2>A closer look at Microsoft Edge&#8217;s photo editing features</h2>
+<p>Microsoft Edge already comes with a web capture tool that lets you take screenshots of web apps. In a future release, you can right-click on any image and edit it before saving it to the desktop.</p>
+<p><img class="aligncenter  wp-image-63897" src="https://www.windowslatest.com/wp-content/uploads/2022/07/Edit-image-in-Microsoft-Edge.jpg" alt="Edit image in Microsoft Edge" width="509" height="435" srcset="https://www.windowslatest.com/wp-content/uploads/2022/07/Edit-image-in-Microsoft-Edge.jpg 841w, https://www.windowslatest.com/wp-content/uploads/2022/07/Edit-image-in-Microsoft-Edge-300x256.jpg 300w, https://www.windowslatest.com/wp-content/uploads/2022/07/Edit-image-in-Microsoft-Edge-768x657.jpg 768w, https://www.windowslatest.com/wp-content/uploads/2022/07/Edit-image-in-Microsoft-Edge-696x595.jpg 696w, https://www.windowslatest.com/wp-content/uploads/2022/07/Edit-image-in-Microsoft-Edge-491x420.jpg 491w" sizes="(max-width: 509px) 100vw, 509px" /></p>
+<p>For example, when you right-click on any image and select the &#8216;edit&#8217; button in the context menu, Edge will launch its own built-in editor with several features identical to features already available in the Windows Photos app. Of course, only basic features are available within the browser&#8217;s image editing tool.</p>
+<p><img class="aligncenter size-full wp-image-63898" src="https://www.windowslatest.com/wp-content/uploads/2022/07/Microsoft-Edge-image-editor.jpg" alt="Microsoft Edge image editor" width="1322" height="716" srcset="https://www.windowslatest.com/wp-content/uploads/2022/07/Microsoft-Edge-image-editor.jpg 1322w, https://www.windowslatest.com/wp-content/uploads/2022/07/Microsoft-Edge-image-editor-300x162.jpg 300w, https://www.windowslatest.com/wp-content/uploads/2022/07/Microsoft-Edge-image-editor-1024x555.jpg 1024w, https://www.windowslatest.com/wp-content/uploads/2022/07/Microsoft-Edge-image-editor-768x416.jpg 768w, https://www.windowslatest.com/wp-content/uploads/2022/07/Microsoft-Edge-image-editor-696x377.jpg 696w, https://www.windowslatest.com/wp-content/uploads/2022/07/Microsoft-Edge-image-editor-1068x578.jpg 1068w, https://www.windowslatest.com/wp-content/uploads/2022/07/Microsoft-Edge-image-editor-775x420.jpg 775w" sizes="(max-width: 1322px) 100vw, 1322px" /></p>
+<p>This includes the ability to crop a picture, change brightness, and exposure, and even annotate the pictures with different tools. You can also apply filters, and annotate with different tools.</p>
+<p><img class="aligncenter size-full wp-image-63899" src="https://www.windowslatest.com/wp-content/uploads/2022/07/Microsoft-Edge-image-editing.jpg" alt="Microsoft Edge image editing" width="1330" height="710" srcset="https://www.windowslatest.com/wp-content/uploads/2022/07/Microsoft-Edge-image-editing.jpg 1330w, https://www.windowslatest.com/wp-content/uploads/2022/07/Microsoft-Edge-image-editing-300x160.jpg 300w, https://www.windowslatest.com/wp-content/uploads/2022/07/Microsoft-Edge-image-editing-1024x547.jpg 1024w, https://www.windowslatest.com/wp-content/uploads/2022/07/Microsoft-Edge-image-editing-768x410.jpg 768w, https://www.windowslatest.com/wp-content/uploads/2022/07/Microsoft-Edge-image-editing-696x372.jpg 696w, https://www.windowslatest.com/wp-content/uploads/2022/07/Microsoft-Edge-image-editing-1068x570.jpg 1068w, https://www.windowslatest.com/wp-content/uploads/2022/07/Microsoft-Edge-image-editing-787x420.jpg 787w" sizes="(max-width: 1330px) 100vw, 1330px" /></p>
+<p>The new image editing capabilities are available in Microsoft Edge&#8217;s Canary Channel and you can try your luck by downloading the latest Canary release from the company&#8217;s official website. It is worth noting that Microsoft tests these features in waves, so it&#8217;s not available for everyone.</p>
+<h2>Other improvements released for Microsoft Edge</h2>
+<p>Microsoft Edge is a feature-rich browser and it will be getting various features and tools, including three new built-in utilities: calculator, unit converter, and speed test.</p>
+<p>&#8220;Easily access commonly used tools while you browse the web, including Calculator, Internet speed test, and Unit converter,&#8221; the roadmap reads.</p>
+<p>You can already access these tools in Microsoft Edge Canary. Edge 105 already offers access to a calculator, translator, dictionary, translator, unit converter, and more.</p>
+<p>In addition to these improvements, Microsoft Edge is also getting a <a href="https://www.windowslatest.com/2022/06/22/you-can-soon-close-tabs-in-microsoft-edge-with-double-click/">new feature that lets you double-click on any tab to close it</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.windowslatest.com/2022/07/09/windows-11-photos-app-like-features-are-coming-to-microsoft-edge/">Windows 11 Photos app-like features are coming to Microsoft Edge</a> appeared first on <a rel="nofollow" href="https://www.windowslatest.com">Windows Latest</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.windowslatest.com/2022/07/09/windows-11-photos-app-like-features-are-coming-to-microsoft-edge/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows 11&#8217;s July 2022 Android Subsystem update adds new features</title>
+		<link>https://www.windowslatest.com/2022/07/07/windows-11s-july-2022-android-subsystem-update-adds-new-features/</link>
+					<comments>https://www.windowslatest.com/2022/07/07/windows-11s-july-2022-android-subsystem-update-adds-new-features/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Mayank Parmar]]></dc:creator>
+		<pubDate>Wed, 06 Jul 2022 22:47:53 +0000</pubDate>
+				<category><![CDATA[Windows 11]]></category>
+		<guid isPermaLink="false">https://www.windowslatest.com/?p=63892</guid>
+
+					<description><![CDATA[<p>Microsoft has been testing a big update for Windows 11&#8217;s Android Subsystem and July 2022&#8217;s feature update is now rolling out with tons of improvements. This release advances Windows Subsystem for Android (WSA) to version 2205.40000.14.0 and it includes several new improvements to the platform. Windows 11&#8217;s Android Subsystem integration is getting advanced networking support [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.windowslatest.com/2022/07/07/windows-11s-july-2022-android-subsystem-update-adds-new-features/">Windows 11&#8217;s July 2022 Android Subsystem update adds new features</a> appeared first on <a rel="nofollow" href="https://www.windowslatest.com">Windows Latest</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p>Microsoft has been <a href="https://www.windowslatest.com/2022/06/03/microsoft-begins-testing-android-12-1-for-windows-11-21h2-and-22h2/">testing a big update for Windows 11&#8217;s Android Subsystem</a> and July 2022&#8217;s feature update is now rolling out with tons of improvements. This release advances Windows Subsystem for Android (WSA) to version 2205.40000.14.0 and it includes several new improvements to the platform.</p>
+<p>Windows 11&#8217;s Android Subsystem integration is getting advanced networking support which enables app access to local devices for ARM hardware. This means apps can now take advantage of the functionality. Likewise, Microsoft is also adding support for two new features &#8211; IPv6 and VPN connectivity.</p>
+<p>These new networking functionalities of the subsystem are available for everyone. Another new addition is improvements to the Settings app. As you&#8217;re probably aware, WSA comes with its own dedicated settings panel and Microsoft has made improvements to the Settings panel with today&#8217;s update.</p>
+<p>Here&#8217;s the full changelog of the WSA July 2022 update for Windows 11:</p>
+<ul>
+<li>Microsoft has enabled Advanced Networking functionality. This provides app access to local network devices for ARM.</li>
+<li>The IP address of the VM has been updated and it&#8217;s now the same as the host/computer IP.</li>
+<li>Microsoft has fixed issues with maximizing or resizing.</li>
+<li>Microsoft has fixed scrolling issues with mouse and trackpad in apps.</li>
+<li>As part of privacy updates, Microsoft has confirmed that windows marked secure can no longer be screenshotted. This includes the incognito mode of Chrome.</li>
+<li>Microsoft is improving web browser launching.</li>
+<li>Enabled support for doze and app standby.</li>
+<li>Updated to Chromium WebView 101</li>
+<li>Microsoft has fixed app flickering and graphics corruption, video playback, issues with the network, and more. In fact, Microsoft claims the update increases the performance and reliability of connecting to virtual WiFi.</li>
+<li>Microsoft is improving video playback in apps and adding support for AV1 Codec.</li>
+<li>Enabled IPv6 and VPN Connectivity</li>
+<li>Microsoft has fixed video playback issues including a bug that can prevent the screen from turning off in Windows.</li>
+</ul>
+<p>While several issues have been resolved in July 2022 update, Microsoft is still aware of a couple of known issues, including a bug where some VPNs may not work with Advanced Networking. You&#8217;ll run into issues if you use a VPN, but this can be fixed if you disable Advanced Networking in the settings app.</p>
+<p>The post <a rel="nofollow" href="https://www.windowslatest.com/2022/07/07/windows-11s-july-2022-android-subsystem-update-adds-new-features/">Windows 11&#8217;s July 2022 Android Subsystem update adds new features</a> appeared first on <a rel="nofollow" href="https://www.windowslatest.com">Windows Latest</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.windowslatest.com/2022/07/07/windows-11s-july-2022-android-subsystem-update-adds-new-features/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows 11&#8217;s WhatsApp update adds advanced context menu and more</title>
+		<link>https://www.windowslatest.com/2022/07/06/windows-11s-whatsapp-update-adds-advanced-context-menu-and-more/</link>
+					<comments>https://www.windowslatest.com/2022/07/06/windows-11s-whatsapp-update-adds-advanced-context-menu-and-more/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Mayank Parmar]]></dc:creator>
+		<pubDate>Tue, 05 Jul 2022 22:37:11 +0000</pubDate>
+				<category><![CDATA[Windows 11]]></category>
+		<guid isPermaLink="false">https://www.windowslatest.com/?p=63887</guid>
+
+					<description><![CDATA[<p>WhatsApp Beta (UWP) for Windows 11 is getting another major update with support for two new features &#8211; reactions and a full-fledged context menu (right-click menu). As you&#8217;re probably aware, WhatsApp Beta (UWP) is based on Windows 11&#8217;s modern principles and it also uses WinUI. Unlike the original desktop app, which is essentially a web [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.windowslatest.com/2022/07/06/windows-11s-whatsapp-update-adds-advanced-context-menu-and-more/">Windows 11&#8217;s WhatsApp update adds advanced context menu and more</a> appeared first on <a rel="nofollow" href="https://www.windowslatest.com">Windows Latest</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p>WhatsApp Beta (UWP) for Windows 11 is getting another major update with support for two new features &#8211; reactions and a full-fledged context menu (right-click menu).</p>
+<p>As you&#8217;re probably aware, WhatsApp Beta (UWP) is based on Windows 11&#8217;s modern principles and it also uses WinUI. Unlike the original desktop app, which is essentially a web wrapper, WhatsApp UWP offers a much better experience and deeper integration with the operating system.</p>
+<p>Facebook&#8217;s parent company Meta first announced the haul of features coming to the messaging app earlier this year. WhatsApp was recently updated with emoji reactions, faster file transfer limits, and other improvements on Android. Similar improvements are now heading to the Windows 11 version.</p>
+<p>Today&#8217;s update introduces emoji reactions so you can easily react to messages in a fun and friendly manner. This feature is similar to reactions we already have in the Facebook Messenger app. However, it&#8217;s currently limited as you can express yourself with a couple of emotions only.</p>
+<p>For example, you can react to messages with a surprise thumbs up, heart, laughter, crying, and the folded hands emoji. WhatsApp has confirmed that it plans to expand the emotions and add support for additional skin tons too. These new reactions and tones will be available in the future release.</p>
+<p>Thankfully, the emoji reactions feature isn&#8217;t the only new addition heading to the messaging app. Facebook is also improving WhatsApp’s context menu by adding a modern context menu for selecting text in chats.</p>
+<p><img class="aligncenter  wp-image-63889" src="https://www.windowslatest.com/wp-content/uploads/2022/07/WhatsApp-UWP.jpg" alt="WhatsApp UWP" width="460" height="485" srcset="https://www.windowslatest.com/wp-content/uploads/2022/07/WhatsApp-UWP.jpg 632w, https://www.windowslatest.com/wp-content/uploads/2022/07/WhatsApp-UWP-284x300.jpg 284w, https://www.windowslatest.com/wp-content/uploads/2022/07/WhatsApp-UWP-398x420.jpg 398w" sizes="(max-width: 460px) 100vw, 460px" /></p>
+<p>As you can see in the above screenshot, you can now select texts and do some basic text formatting. For example, you can convert texts to preformatted (which lets you share code easily), Italics, Bold, Strikethrough, and more.</p>
+<p>It is also possible to select text and click on options like Copy, Cut, Paste, Undo and Select.</p>
+<p>A official change isn&#8217;t available at the moment, but WhatsApp also appears to be getting the ability to add up to 512 people. You can grab this update right now from the Microsoft Store here.</p>
+<p>In addition to the aforementioned features, WhatsApp UWP has also received several improvements, <a href="https://www.windowslatest.com/2022/06/05/whatsapp-beta-uwp-gets-two-new-useful-features-on-windows-11/">including support for limited one-time view for media shares</a>, better dark mode support and more.</p>
+<p>The post <a rel="nofollow" href="https://www.windowslatest.com/2022/07/06/windows-11s-whatsapp-update-adds-advanced-context-menu-and-more/">Windows 11&#8217;s WhatsApp update adds advanced context menu and more</a> appeared first on <a rel="nofollow" href="https://www.windowslatest.com">Windows Latest</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.windowslatest.com/2022/07/06/windows-11s-whatsapp-update-adds-advanced-context-menu-and-more/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft accidentally leaks the new OneDrive client for Windows 11</title>
+		<link>https://www.windowslatest.com/2022/07/04/microsoft-accidentally-leaks-the-new-onedrive-client-for-windows-11/</link>
+					<comments>https://www.windowslatest.com/2022/07/04/microsoft-accidentally-leaks-the-new-onedrive-client-for-windows-11/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Mayank Parmar]]></dc:creator>
+		<pubDate>Sun, 03 Jul 2022 22:29:55 +0000</pubDate>
+				<category><![CDATA[Windows 11]]></category>
+		<guid isPermaLink="false">https://www.windowslatest.com/?p=63881</guid>
+
+					<description><![CDATA[<p>Microsoft is apparently working on a new OneDrive client for Windows 11 and it&#8217;s built from scratch. This could be the most significant update to the desktop operating system&#8217;s online cloud storage service and seems to have been accidentally leaked online by the company over the weekend. OneDrive is tightly integrated into Windows 11 and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.windowslatest.com/2022/07/04/microsoft-accidentally-leaks-the-new-onedrive-client-for-windows-11/">Microsoft accidentally leaks the new OneDrive client for Windows 11</a> appeared first on <a rel="nofollow" href="https://www.windowslatest.com">Windows Latest</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p>Microsoft is apparently working on a new OneDrive client for Windows 11 and it&#8217;s built from scratch. This could be the most significant update to the desktop operating system&#8217;s online cloud storage service and seems to have been accidentally leaked online by the company over the weekend.</p>
+<p>OneDrive is tightly integrated into Windows 11 and it&#8217;s also part of the Windows Search or even File Explorer in <a href="https://www.windowslatest.com/2022/06/28/you-can-now-check-if-your-pc-is-compatible-with-windows-11-22h2/">version 22H2</a>. Separate tools are available for multiple platforms, including Android, and iOS. Windows also comes with a taskbar-based OneDrive client which lets you manage synced files, uploads and more.</p>
+<p>However, Windows 11 doesn&#8217;t have a full-fledged OneDrive app. This could change soon, according to a new leak. A new OneDrive client has appeared on <a href="https://oneclient.sfx.ms/Win/MsitFast/22.140.0630.0001/amd64/OneDriveSetup.exe" target="_blank" rel="nofollow noopener noreferrer">Microsoft&#8217;s website</a> and it seems to be based on Windows 11&#8217;s WinUI principles. In fact, it&#8217;s a proper app and it looks identical to the settings app.</p>
+
+                <style type="text/css">
+                    
+                    #td_uid_1_62d1decc2b1b1  .td-doubleSlider-2 .td-item1 {
+                        background: url(https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client-80x60.jpeg) 0 0 no-repeat;
+                    }
+                    #td_uid_1_62d1decc2b1b1  .td-doubleSlider-2 .td-item2 {
+                        background: url(https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client-80x60.jpg) 0 0 no-repeat;
+                    }
+                    #td_uid_1_62d1decc2b1b1  .td-doubleSlider-2 .td-item3 {
+                        background: url(https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-app-80x60.jpg) 0 0 no-repeat;
+                    }
+                </style>
+
+                <div id="td_uid_1_62d1decc2b1b1" class="td-gallery td-slide-on-2-columns">
+                    <div class="post_td_gallery">
+                        <div class="td-gallery-slide-top">
+                           <div class="td-gallery-title"></div>
+
+                            <div class="td-gallery-controls-wrapper">
+                                <div class="td-gallery-slide-count"><span class="td-gallery-slide-item-focus">1</span> of 3</div>
+                                <div class="td-gallery-slide-prev-next-but">
+                                    <i class = "td-icon-left doubleSliderPrevButton"></i>
+                                    <i class = "td-icon-right doubleSliderNextButton"></i>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class = "td-doubleSlider-1 ">
+                            <div class = "td-slider">
+                                
+                    <div class = "td-slide-item td-item1">
+                        <figure class="td-slide-galery-figure td-slide-popup-gallery">
+                            <a class="slide-gallery-image-link" href="https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client.jpeg" title="OneDrive client"  data-caption=""  data-description="">
+                                <img src="https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client-514x420.jpeg" srcset="https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client-514x420.jpeg 514w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client-300x245.jpeg 300w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client-1024x837.jpeg 1024w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client-768x628.jpeg 768w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client-1536x1255.jpeg 1536w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client-696x569.jpeg 696w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client-1068x873.jpeg 1068w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client.jpeg 1659w" sizes="(max-width: 514px) 100vw, 514px" alt="">
+                            </a>
+                            
+                        </figure>
+                    </div>
+                    <div class = "td-slide-item td-item2">
+                        <figure class="td-slide-galery-figure td-slide-popup-gallery">
+                            <a class="slide-gallery-image-link" href="https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client.jpg" title="OneDrive client"  data-caption=""  data-description="">
+                                <img src="https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client-537x420.jpg" srcset="https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client-537x420.jpg 537w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client-300x235.jpg 300w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client-1024x802.jpg 1024w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client-768x601.jpg 768w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client-1536x1202.jpg 1536w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client-696x545.jpg 696w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client-1068x836.jpg 1068w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-client.jpg 1694w" sizes="(max-width: 537px) 100vw, 537px" alt="OneDrive client">
+                            </a>
+                            
+                        </figure>
+                    </div>
+                    <div class = "td-slide-item td-item3">
+                        <figure class="td-slide-galery-figure td-slide-popup-gallery">
+                            <a class="slide-gallery-image-link" href="https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-app.jpg" title="OneDrive app"  data-caption=""  data-description="">
+                                <img src="https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-app-528x420.jpg" srcset="https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-app-528x420.jpg 528w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-app-300x239.jpg 300w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-app-1024x814.jpg 1024w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-app-768x611.jpg 768w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-app-1536x1222.jpg 1536w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-app-696x554.jpg 696w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-app-1068x849.jpg 1068w, https://www.windowslatest.com/wp-content/uploads/2022/07/OneDrive-app.jpg 1676w" sizes="(max-width: 528px) 100vw, 528px" alt="OneDrive app">
+                            </a>
+                            
+                        </figure>
+                    </div>
+                            </div>
+                        </div>
+
+                        <div class = "td-doubleSlider-2">
+                            <div class = "td-slider">
+                                
+                    <div class = "td-button td-item1">
+                        <div class = "td-border"></div>
+                    </div>
+                    <div class = "td-button td-item2">
+                        <div class = "td-border"></div>
+                    </div>
+                    <div class = "td-button td-item3">
+                        <div class = "td-border"></div>
+                    </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                
+<p>As you can see in the above screenshot, Windows 11&#8217;s new OneDrive app features a new navigation experience. The options are available on the left side and the interface has been overhauled. There are no new features, but all existing options are still accessible, including the ability to personalize sync settings, notifications and more.</p>
+<p>You can also add another account and manage features like the available storage. Of course, you can also manage these options in Windows 11&#8217;s native Settings app.</p>
+<p>It is worth noting that the tech giant is still working on the public preview of the OneDrive storage app and users should not download the leaked version as it does not guarantee stability. If you still want to try the new OneDrice experience, make sure you perform the installation on a device in the Dev Channel.</p>
+<p>Additionally, Microsoft is also working on OneDrive integration for Windows 11.</p>
+<p>The post <a rel="nofollow" href="https://www.windowslatest.com/2022/07/04/microsoft-accidentally-leaks-the-new-onedrive-client-for-windows-11/">Microsoft accidentally leaks the new OneDrive client for Windows 11</a> appeared first on <a rel="nofollow" href="https://www.windowslatest.com">Windows Latest</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.windowslatest.com/2022/07/04/microsoft-accidentally-leaks-the-new-onedrive-client-for-windows-11/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows 11 22H2: Hands with new Task Manager features and more</title>
+		<link>https://www.windowslatest.com/2022/07/03/windows-11-22h2-hands-with-new-task-manager-features-and-more/</link>
+					<comments>https://www.windowslatest.com/2022/07/03/windows-11-22h2-hands-with-new-task-manager-features-and-more/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Mayank Parmar]]></dc:creator>
+		<pubDate>Sat, 02 Jul 2022 21:52:44 +0000</pubDate>
+				<category><![CDATA[Windows 11]]></category>
+		<guid isPermaLink="false">https://www.windowslatest.com/?p=63737</guid>
+
+					<description><![CDATA[<p>Windows 11 22H2 doesn&#8217;t have any ground-breaking new features (though there are several quality improvements here and there). However, there&#8217;s one big change in this version of the operating system &#8211; a brand new Task Manager with WinUI, Fluent Design, Mica and more. The new Task Manager isn’t a complete overhaul of the existing app. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.windowslatest.com/2022/07/03/windows-11-22h2-hands-with-new-task-manager-features-and-more/">Windows 11 22H2: Hands with new Task Manager features and more</a> appeared first on <a rel="nofollow" href="https://www.windowslatest.com">Windows Latest</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p>Windows 11 22H2 doesn&#8217;t have any ground-breaking new features (though there are several quality improvements here and there). However, there&#8217;s one big change in this version of the operating system &#8211; a brand new Task Manager with WinUI, Fluent Design, Mica and more.</p>
+<p>The new Task Manager isn’t a complete overhaul of the existing app. The homepage has been redesigned and &#8216;tabs&#8217; i.e &#8216;Processes&#8217;, &#8216;Performance&#8217;, &#8216;Network&#8217; that usually sit at the top of the application have been moved to the side. The reason is the company wants to make the Task Manager more tablet-friendly and &#8216;modern&#8217;.</p>
+<p>As you can see in the below screenshots, the Task Manager window now uses new Mica translucent material. For the uninitiated, Mica is a new “design material” that aims to align the background colour of the app&#8217;s window or the title bar with the desktop background to generate a beautiful “colour hierarchy”.</p>
+<p><img class="aligncenter size-full wp-image-63739" src="https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-modern-design.jpg" alt="Task Manager modern design" width="1496" height="903" srcset="https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-modern-design.jpg 1496w, https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-modern-design-300x181.jpg 300w, https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-modern-design-1024x618.jpg 1024w, https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-modern-design-768x464.jpg 768w, https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-modern-design-696x420.jpg 696w, https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-modern-design-1068x645.jpg 1068w" sizes="(max-width: 1496px) 100vw, 1496px" /></p>
+<p>The Mica material used within the Task Manager is not a transparency effect. In other words, if you have Task Manager open on top of another app like Paint, Windows 11 will still apply the desktop background&#8217;s theme colour to the title bar of Task Manager.</p>
+<p><img class="aligncenter size-full wp-image-63740" src="https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-performance-tab.jpg" alt="Task Manager performance tab" width="1484" height="932" srcset="https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-performance-tab.jpg 1484w, https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-performance-tab-300x188.jpg 300w, https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-performance-tab-1024x643.jpg 1024w, https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-performance-tab-768x482.jpg 768w, https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-performance-tab-696x437.jpg 696w, https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-performance-tab-1068x671.jpg 1068w, https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-performance-tab-669x420.jpg 669w" sizes="(max-width: 1484px) 100vw, 1484px" /></p>
+<p>This will not come at the cost of performance, according to a Microsoft official. The company insists that performance remains a top priority for Windows 11 Task Manager overhaul and they &#8220;want to ensure that all these new functionalities (Mica and rounded corners) are super-fast&#8221;.</p>
+<p>In addition to the new tab layout and design, Microsoft has moved common actions like creating a new task, ending a task, and more to the top. These common actions will change when you switch between the tabs in Task Manager.</p>
+
+                <style type="text/css">
+                    
+                    #td_uid_2_62d1decc2c487  .td-doubleSlider-2 .td-item1 {
+                        background: url(https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-red-colour-80x60.jpeg) 0 0 no-repeat;
+                    }
+                    #td_uid_2_62d1decc2c487  .td-doubleSlider-2 .td-item2 {
+                        background: url(https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-yellow-colour-80x60.jpeg) 0 0 no-repeat;
+                    }
+                </style>
+
+                <div id="td_uid_2_62d1decc2c487" class="td-gallery td-slide-on-2-columns">
+                    <div class="post_td_gallery">
+                        <div class="td-gallery-slide-top">
+                           <div class="td-gallery-title"></div>
+
+                            <div class="td-gallery-controls-wrapper">
+                                <div class="td-gallery-slide-count"><span class="td-gallery-slide-item-focus">1</span> of 2</div>
+                                <div class="td-gallery-slide-prev-next-but">
+                                    <i class = "td-icon-left doubleSliderPrevButton"></i>
+                                    <i class = "td-icon-right doubleSliderNextButton"></i>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class = "td-doubleSlider-1 ">
+                            <div class = "td-slider">
+                                
+                    <div class = "td-slide-item td-item1">
+                        <figure class="td-slide-galery-figure td-slide-popup-gallery">
+                            <a class="slide-gallery-image-link" href="https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-red-colour.jpeg" title="Task Manager red colour"  data-caption=""  data-description="">
+                                <img src="https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-red-colour-720x420.jpeg" srcset="https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-red-colour-720x420.jpeg 720w, https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-red-colour-300x175.jpeg 300w, https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-red-colour-1024x598.jpeg 1024w, https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-red-colour-768x448.jpeg 768w, https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-red-colour-1536x896.jpeg 1536w, https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-red-colour-2048x1195.jpeg 2048w, https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-red-colour-696x406.jpeg 696w, https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-red-colour-1068x623.jpeg 1068w" sizes="(max-width: 720px) 100vw, 720px" alt="Task Manager red colour">
+                            </a>
+                            
+                        </figure>
+                    </div>
+                    <div class = "td-slide-item td-item2">
+                        <figure class="td-slide-galery-figure td-slide-popup-gallery">
+                            <a class="slide-gallery-image-link" href="https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-yellow-colour.jpeg" title="Task Manager yellow colour"  data-caption=""  data-description="">
+                                <img src="https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-yellow-colour-722x420.jpeg" srcset="https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-yellow-colour-722x420.jpeg 722w, https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-yellow-colour-300x175.jpeg 300w, https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-yellow-colour-1024x596.jpeg 1024w, https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-yellow-colour-768x447.jpeg 768w, https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-yellow-colour-1536x894.jpeg 1536w, https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-yellow-colour-2048x1192.jpeg 2048w, https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-yellow-colour-696x405.jpeg 696w, https://www.windowslatest.com/wp-content/uploads/2022/05/Task-Manager-yellow-colour-1068x622.jpeg 1068w" sizes="(max-width: 722px) 100vw, 722px" alt="Task Manager yellow colour">
+                            </a>
+                            
+                        </figure>
+                    </div>
+                            </div>
+                        </div>
+
+                        <div class = "td-doubleSlider-2">
+                            <div class = "td-slider">
+                                
+                    <div class = "td-button td-item1">
+                        <div class = "td-border"></div>
+                    </div>
+                    <div class = "td-button td-item2">
+                        <div class = "td-border"></div>
+                    </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                
+<p>Overall, the design may look similar to the current iteration, but the background now supports dark mode and there are rounded corners everywhere. This is another step in bringing the Task Manager more in line with Microsoft&#8217;s vision of a modern and visually appealing interface.</p>
+<p>Pages like Processes now follow the system-wide Windows 11 theme colour.</p>
+<h2>New performance-friendly feature in Task Manager</h2>
+<p>Task Manager&#8217;s major feature update is Efficiency mode which is a new way to ensure you&#8217;ve control over certain processes. With Efficiency mode, you can reduce the CPU stress by minimizing the usage of the system resources on a process basis. This can lead to faster foreground responsiveness and better energy efficiency.</p>
+<p><img class="aligncenter size-full wp-image-63741" src="https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-efficiency-mode.jpg" alt="Task Manager efficiency mode" width="1515" height="921" srcset="https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-efficiency-mode.jpg 1515w, https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-efficiency-mode-300x182.jpg 300w, https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-efficiency-mode-1024x623.jpg 1024w, https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-efficiency-mode-768x467.jpg 768w, https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-efficiency-mode-696x423.jpg 696w, https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-efficiency-mode-1068x649.jpg 1068w, https://www.windowslatest.com/wp-content/uploads/2022/06/Task-Manager-efficiency-mode-691x420.jpg 691w" sizes="(max-width: 1515px) 100vw, 1515px" /></p>
+<p>Task Manager&#8217;s Efficiency mode leverages EcoQoS and limits process resource usage by reducing the process priority. When the priority of a certain process is reduced, the app dependent on that process won&#8217;t simply end. Instead, it will stay in the background and allow other important apps/processes to run efficiently on the CPU.</p>
+<p>Windows 11 22H2 will begin rolling out to users in October with Task Manager, <a href="https://www.windowslatest.com/2022/06/02/windows-11-22h2-hands-on-with-new-features-coming-to-start-menu/">Start menu</a> features, and more.</p>
+<p>The post <a rel="nofollow" href="https://www.windowslatest.com/2022/07/03/windows-11-22h2-hands-with-new-task-manager-features-and-more/">Windows 11 22H2: Hands with new Task Manager features and more</a> appeared first on <a rel="nofollow" href="https://www.windowslatest.com">Windows Latest</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.windowslatest.com/2022/07/03/windows-11-22h2-hands-with-new-task-manager-features-and-more/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
