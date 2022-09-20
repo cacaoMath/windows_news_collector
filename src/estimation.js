@@ -13,7 +13,7 @@ async function my_mecab(text){
   })
 }
 
-const classifier = bayes({
+let classifier = bayes({
   tokenizer: async function (text) { return await my_mecab(text) } 
 });
 
@@ -22,16 +22,14 @@ function file_importer(text_path){
   return text.toString().split('\n');
 }
 
-async function learn_classifier(classifier, txt, category){
-  await classifier.learn(txt, category);
-  return classifier;
+const grand_true_texts = file_importer('./resource/grand_true.txt');
+for(const txt of grand_true_texts){
+  console.log(txt)
+  await classifier.learn(txt, "win");
 }
-const texts1 = file_importer('./resource/grand_true.txt');
-for(const txt of texts1){
-  await learn_classifier(classifier, txt, "windows");
+const grand_false_texts = file_importer('./resource/grand_false.txt');
+for(const txt of grand_false_texts){
+  await classifier.learn(txt, "other");
 }
-const texts2 = file_importer('./resource/grand_false.txt');
-for(const txt of texts2){
-  await learn_classifier(classifier, txt, "other");
-}
-console.log(await classifier.categorize('しゃけ'));
+console.log(classifier.toJson());
+console.log(await classifier.categorize('ガジェット'));
