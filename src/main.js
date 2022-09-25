@@ -1,4 +1,4 @@
-import { fetch_rss } from "./fetch_rss.js";
+import { fetch_rss, fetch_rss_by_bayes } from "./fetch_rss.js";
 import 'dotenv/config';
 import mail from "@sendgrid/mail";
 
@@ -45,17 +45,17 @@ baseDate.setSeconds(0);
 
 const matchPattern = /[mM]icro.*|マイクロソフト|[wW]in.*|Net|アップデート|[uU]pdate/
 
-function arrToHtml(rssArr){
-    return "<ul>" + rssArr.map(item =>{
-        return `<li> <a href='${item.link}'> ${item.title} </a>: ${item.pubDate} </li>` 
+function arrToHtml(rssArr) {
+    return "<ul>" + rssArr.map(item => {
+        return `<li> <a href='${item.link}'> ${item.title} </a>: ${item.pubDate} </li>`
     }).join("") + "</ul>"
 }
 
 const main = async () => {
     let results = [];
 
-    for(const url of feedURL){
-        const tmp = await fetch_rss(baseDate, url, matchPattern);
+    for (const url of feedURL) {
+        const tmp = await fetch_rss_by_bayes(baseDate, url);
         results = await results.concat(tmp);
     }
     const uniqueResult = await Array.from(
